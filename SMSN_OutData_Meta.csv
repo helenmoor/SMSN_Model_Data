@@ -1,0 +1,48 @@
+Variable name,Description
+No,Simulation ID
+Scenario,"Dispersal assumption scenario: U= Uniform, V=Variable, T=Trade-off"
+meanNN,Mean nearest neighbour distance between patches in random landscape
+alpha,Interspecific competition coefficient alpha ij
+SMdistrMean,Mean of seed mass distribution 
+SMdistrSD,Standard deviation of seed mass distribution
+SMdistrMedian,Median of seed mass distribution
+alpha_Equ_all,Alpha diversity at Equilibrium – all species
+gamma_Equ_all,Gamma diversity at Equilibrium – all species
+beta_Equ_all,Beta diversity at Equilibrium – all species
+alphaRich_Equ_all,Alpha richness at Equilibrium – all species
+gammaRich_Equ_all,Gamma richness at Equilibrium – all species
+JD_Equ_all,Jaccard dissimilarity at Equilibrium – all species
+alpha_Equ_nat,Alpha diversity at Equilibrium – native = species present in landscape at equilibrium
+gamma_Equ_nat,Gamma diversity at Equilibrium –  native = species present in landscape at equilibrium
+beta_Equ_nat,Beta diversity at Equilibrium – native = species present in landscape at equilibrium
+alphaRich_Equ_nat,Alpha richness at Equilibrium – native = species present in landscape at equilibrium
+gammaRich_Equ_nat,Gamma richness at Equilibrium – native = species present in landscape at equilibrium
+JD_Equ_nat,Jaccard dissimilarity at Equilibrium – native = species present in landscape at equilibrium
+CWM_SM_Equ,Community weighted arithmetic mean seed mass at equilibrium
+CWMgeom_Equ,Community weighted geometric mean seed mass at equilibrium
+r_SMAb_Equ,Correlation coefficent r of Abundance ~ seed mass at equiblibrium
+Pvalue_rSMAb_Equ,p value for correlation of Abundance ~ seed mass at equiblibrium
+ClimLag_Equ,Species lag behind their temperature optimum at equilibrium
+ClimLagSM_r_Equ,Correlation coefficient r of Species lag behind their temperature optimum at equilibrium ~ seed mass
+ClimLagSM_rPvalue_Equ,P value of Correlation of Species lag behind their temperature optimum at equilibrium ~ seed mass
+alpha_CC_all,Alpha diversity after Climate Change – all species
+gamma_CC_all,Gamma diversity after Climate Change – all species
+beta_CC_all,Beta diversity after Climate Change – all species
+alphaRich_CC_all,Alpha richness after Climate Change – all species
+gammaRich_CC_all,Gamma richness after Climate Change – all species
+JD_CC_all,Jaccard dissimilarity after Climate Change – all species
+alpha_CC_nat,Alpha diversity after Climate Change – native = species present in landscape at equilibrium
+gamma_CC_nat,Gamma diversity after Climate Change –  native = species present in landscape at equilibrium
+beta_CC_nat,Beta diversity after Climate Change – native = species present in landscape at equilibrium
+alphaRich_CC_nat,Alpha richness after Climate Change – native = species present in landscape at equilibrium
+gammaRich_CC_nat,Gamma richness after Climate Change  – native = species present in landscape at equilibrium
+JD_CC_nat,Jaccard dissimilarity after Climate Change– native = species present in landscape at equilibrium
+CWM_SM_CC,Community weighted arithmetic mean seed mass after Climate Change
+CWMgeom_CC,Community weighted geometric mean seed mass after Climate Change
+r_SMAb_CC,Correlation coefficent r of Abundance ~ seed mass after Climate Change
+Pvalue_rSMAb_CC,p value for correlation of Abundance ~ seed mass after Climate Change
+ClimLag_CC,Species lag behind their temperature optimum after Climate Change
+ClimLagSM_r_CC,Correlation coefficient r of Species lag behind their temperature optimum after Climate Change ~ seed mass
+ClimLagSM_rPvalue_CC,P value of Correlation of Species lag behind their temperature optimum after Climate Change ~ seed mass
+invasionsTot,Total nr of successful colonisation events
+extinctionsTot,Total nr of local extinction events
